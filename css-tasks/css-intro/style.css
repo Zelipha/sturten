@@ -1,0 +1,20 @@
+main {
+  margin-left: 10%;
+}
+
+.likes {
+  color: brown;
+}
+
+/* inheritance */
+#my-like {
+  color: blue;
+}
+
+.dislikes {
+  margin-top: 40px;
+  background-color: rgb(175, 157, 175);
+  width: 30%;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
